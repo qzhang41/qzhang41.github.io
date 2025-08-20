@@ -14,3 +14,29 @@ Dr. Qiwei Zhang is an Assistant Professor at University of Texas at San Antonio.
 1. Power System Operation and Planning
 2. Power Grid Cybersecurity
 3. Electricity Market
+
+# Work Experience
+
+* **University of Texas at San Antonio (UTSA)** (*Aug. 2025 - Now)
+
+  Assistant Professor
+
+* **National Renewable Energy Lab (NREL)** (*June 2024 - July 2025*)
+
+  Researcher-Modeling Engineering
+
+* **Johns Hopkins University (JHU)** (April 2023 - May 2024)
+
+  Postdoc Researcher
+
+* **University of Tennessee, Knoxville (UTK)** (*Sep. 2022 - March 2023)
+
+  Research Scientist
+
+# Education
+
+* **University of Tennessee, Knoxville (UTK)** (*PhD Graduated 2022)
+
+* **University of Tennessee, Knoxville (UTK)** (*MS Graduated 2022)
+
+* **North China Electric Power University (NCEPU)** (*BS Graduated 2022)
