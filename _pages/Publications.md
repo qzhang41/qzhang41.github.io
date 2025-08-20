@@ -6,7 +6,6 @@ author_profile: true
 ---
 # For full publication list please visit [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=oCySz0kAAAAJ&view_op=list_works&sortby=pubdate)
 
-# Selected Publication since 2023
 
 # 2025
 * E. Spyrou, **Qiwei Zhang**, R. Hytowitz, B. Hobbs, S. Tyagi, M. Cai, "Flexibility Options: A Proposed Product for Managing Imbalance Risk," IEEE Transactions on Energy Markets, Policy and Regulation, 2025.
@@ -21,3 +20,11 @@ author_profile: true
 * **Qiwei Zhang**, F. Li “A Comprehensive Dataset for Electricity Economic Studies on U.S. Western and Northeastern Power Grids” Journal:  Scientific Data (Nature Portfolio), Sept. 22, 2023. 
 * **Qiwei Zhang**, F. Li, X. Wang "Cyber-Impact Analysis for ISO Revenue Adequacy Considering FDIA in Real-Time Market Operations," IEEE Transactions on Power Systems, vol. 38, no. 5, pp. 4042-4053, Sept. 2023
 * **Qiwei Zhang**, F. Li, L. Bai, H. Wang, J. Zhao and H. Shuai, "Coupling Analysis for Multienergy Systems by Self and Cross Critical Load Level," in IEEE Open Access Journal of Power and Energy, vol. 10, pp. 503-516, 2023
+# 2022
+* **Qiwei Zhang**, F. Li, "Financial Resilience and Financial Reliability for Systemic Risk Assessment of Electricity Markets with High-Penetration Renewables," IEEE Transactions on Power Systems, vol. 37, no. 3, pp. 2312-2321, May 2022.
+* **Qiwei Zhang**, F. Li, W. Feng, X. Wang, L. Bai and R. Bo, “Building Marginal Pattern Library with Unbiased Training Dataset for Enhancing Model-Free Load-ED Mapping,” IEEE OA Journal of Power and Energy, vol. 9, 2022. 
+# 2021
+* **Qiwei Zhang**, F. Li, Q. Shi, K. Tomsovic, J. Sun and L. Ren, "Profit-Oriented False Data Injection on Energy Market: Reviews, Analysis and Insights", IEEE Transactions on Industrial Informatics, vol. 17, no. 9, pp. 5876-5886, Sept. 2021.
+* **Qiwei Zhang**, F. Li "Cyber-Vulnerability Analysis for Real-time Market Operations", Journal: IEEE Transactions on Smart Grid (impact factor: 10.4), vol. 12, no. 4, pp. 3527-3537, July 2021. 
+* **Qiwei Zhang**, F. Li, “From Systematic Risk to Systemic Risk: Analysis over Day-Ahead Market Operation under High Renewable Penetration by CoVaR and ΔCoVaR,” IEEE Transactions on Sustainable Energy, vol. 12, no. 2, pp. 761-771, Apr. 2021.
+* **Qiwei Zhang**, F. Li, H. Cui, R. Bo and L. Ren, "Market-Level Defense against FDIA and a New LMP-Disguising Attack Strategy in Real-Time Market Operations," IEEE Transactions on Power Systems, vol. 36, no. 2, pp. 1419-1431, Mar. 2021. 
