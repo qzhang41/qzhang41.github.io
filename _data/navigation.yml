@@ -11,23 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Team Members"
+    url: /Team Members/    
+    
   - title: "Talks"
-    url: /talks/    
+    url: /Talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Research Projects"
+    url: /Research Projects/    
+
+  - title: "Positions"
+    url: /Positions/    
