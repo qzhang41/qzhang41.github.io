@@ -13,7 +13,7 @@ author_profile: true
 # 2024
 * J. Zhao, F. Li, **Qiwei Zhang**, “Impacts of renewable energy resources on the weather vulnerability of power systems,” Nature Energy (impact factor: 49.7), Oct. 21, 2024.
 * **Qiwei Zhang**, F. Li “Securing Energy Equity through Multilayer Market Clearing” in IEEE Transactions on Energy Markets, Policy and Regulation, vol. 2, no. 3, pp. 301-312, Sept. 2024.
-* **Qiwei Zhang**, F. Li, J. Zhao, B. She., “False Data Injection Attack and Corresponding Countermeasure in Multienergy Systems,” IEEE Transactions on Power Systems (impact factor: 6.9), vol. 39, no. 2, pp. 3537-3547, March 2024
+* **Qiwei Zhang**, F. Li, J. Zhao, B. She., “False Data Injection Attack and Corresponding Countermeasure in Multienergy Systems,” IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 3537-3547, March 2024
 * **Qiwei Zhang**, F. Li, X. Fang, J. Zhao “Implications of Electricity and Gas Price Coupling in U.S. New England Region” Journal: iScience (Cell Press), Jan. 19, 2024.
 * J. Wang, F. Li, X. Fang, W. Wang, H. Cui, **Qiwei Zhang**, B. She “Electric vehicles charging time constrained deliverable provision of secondary frequency regulation” IEEE Transactions on Smart Grid, Jan. 19, 2024.
 # 2023
