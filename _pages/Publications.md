@@ -13,12 +13,14 @@ author_profile: true
 # 2024
 * J. Zhao, F. Li, **Qiwei Zhang**, “Impacts of renewable energy resources on the weather vulnerability of power systems,” Nature Energy (impact factor: 49.7), Oct. 21, 2024.
 * **Qiwei Zhang**, F. Li “Securing Energy Equity through Multilayer Market Clearing” in IEEE Transactions on Energy Markets, Policy and Regulation, vol. 2, no. 3, pp. 301-312, Sept. 2024.
+* B She, F Li, H Cui, J Wang, **Qiwei Zhang**, R Bo, “Virtual inertia scheduling for power systems with high penetration of inverter-based resources” IEEE Transactions on Sustainable Energy, April, 2024
 * **Qiwei Zhang**, F. Li, J. Zhao, B. She., “False Data Injection Attack and Corresponding Countermeasure in Multienergy Systems,” IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 3537-3547, March 2024
 * **Qiwei Zhang**, F. Li, X. Fang, J. Zhao “Implications of Electricity and Gas Price Coupling in U.S. New England Region” Journal: iScience (Cell Press), Jan. 19, 2024.
 * J. Wang, F. Li, X. Fang, W. Wang, H. Cui, **Qiwei Zhang**, B. She “Electric vehicles charging time constrained deliverable provision of secondary frequency regulation” IEEE Transactions on Smart Grid, Jan. 19, 2024.
 # 2023
 * **Qiwei Zhang**, F. Li “A Comprehensive Dataset for Electricity Economic Studies on U.S. Western and Northeastern Power Grids” Journal:  Scientific Data (Nature Portfolio), Sept. 22, 2023. 
 * **Qiwei Zhang**, F. Li, X. Wang "Cyber-Impact Analysis for ISO Revenue Adequacy Considering FDIA in Real-Time Market Operations," IEEE Transactions on Power Systems, vol. 38, no. 5, pp. 4042-4053, Sept. 2023
+* X. Wang, F. Li, **Qiwei Zhang**, Q. Shi and J. Wang, "Profit-Oriented BESS Siting and Sizing in Deregulated Distribution Systems," IEEE Transactions on Smart Grid, vol. 14, pp. 1528-1540, March 2023 
 * **Qiwei Zhang**, F. Li, L. Bai, H. Wang, J. Zhao and H. Shuai, "Coupling Analysis for Multienergy Systems by Self and Cross Critical Load Level," in IEEE Open Access Journal of Power and Energy, vol. 10, pp. 503-516, 2023
 # 2022
 * **Qiwei Zhang**, F. Li, "Financial Resilience and Financial Reliability for Systemic Risk Assessment of Electricity Markets with High-Penetration Renewables," IEEE Transactions on Power Systems, vol. 37, no. 3, pp. 2312-2321, May 2022.
@@ -28,3 +30,5 @@ author_profile: true
 * **Qiwei Zhang**, F. Li "Cyber-Vulnerability Analysis for Real-time Market Operations", Journal: IEEE Transactions on Smart Grid (impact factor: 10.4), vol. 12, no. 4, pp. 3527-3537, July 2021. 
 * **Qiwei Zhang**, F. Li, “From Systematic Risk to Systemic Risk: Analysis over Day-Ahead Market Operation under High Renewable Penetration by CoVaR and ΔCoVaR,” IEEE Transactions on Sustainable Energy, vol. 12, no. 2, pp. 761-771, Apr. 2021.
 * **Qiwei Zhang**, F. Li, H. Cui, R. Bo and L. Ren, "Market-Level Defense against FDIA and a New LMP-Disguising Attack Strategy in Real-Time Market Operations," IEEE Transactions on Power Systems, vol. 36, no. 2, pp. 1419-1431, Mar. 2021. 
+# 2019
+* **Qiwei Zhang**, F. Li, H. Wang, Y. Xue, "Zigzag Search for Multi-objective Optimization Considering Generation Cost and Emission," Journal: Applied Energy, vol. 255, Dec. 2019. 
