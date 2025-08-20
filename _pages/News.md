@@ -11,6 +11,7 @@ author_profile: true
 * **Aug, 2025**
   
   Dr. Zhang joined the University of Texas at San Antonio as Assistant Professor!
+  
   Ruocheng Yin joined our lab as PhD student!
 
 * **July, 2025**
