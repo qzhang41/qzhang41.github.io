@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![UTSA Logo](https://JinZhaoTCD.github.io/images/TCD_logo.png)
+![UTSA Logo](https://qzhang41.github.io/images/logo.png)
 
 Our goal is to secure energy system operation using emerging techniques such as AI, optimization, and statistics.
 
