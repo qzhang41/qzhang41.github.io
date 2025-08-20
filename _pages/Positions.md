@@ -1,12 +1,17 @@
-﻿---
+---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Position"
+permalink: /position/
 author_profile: true
 ---
-# For full publication list [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=oCySz0kAAAAJ&view_op=list_works&sortby=pubdate)
+Open opsitions.
 
-**Publications**
+# PhD student positions
 
-[1]. E. Spyrou, **Qiwei Zhang, et al., "Flexibility Options: A Proposed Product for Managing Imbalance Risk," IEEE Transactions on Energy Markets, Policy and Regulation, In-press, 2025.
-[2]. J. Wang, F. Li, X. Fang, **Qiwei Zhang, et al., “Electric Vehicles Charging Time Constrained Deliverable Secondary Frequency Regulation Provision” IEEE Transactions on Smart Grid, In-Press, 2024
+Required Qualifications of PhD: 1) Good English communication ability. 2) highly motivated for research.
+
+Preferred Qualifications: 1) Mater degree in electrical engineering. 2) Publication track with related topics
+
+* **All positions filled in 2025**
+
+Please send your CV and Transcript to **qiwei.zhang@utsa.edu**. Please use “Doctoral Application + Name” in the email's subject line.
