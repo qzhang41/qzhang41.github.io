@@ -20,6 +20,7 @@ author_profile: true
 # 2023
 * **Qiwei Zhang**, F. Li “A Comprehensive Dataset for Electricity Economic Studies on U.S. Western and Northeastern Power Grids” Journal:  Scientific Data (Nature Portfolio), Sept. 22, 2023. 
 * **Qiwei Zhang**, F. Li, X. Wang "Cyber-Impact Analysis for ISO Revenue Adequacy Considering FDIA in Real-Time Market Operations," IEEE Transactions on Power Systems, vol. 38, no. 5, pp. 4042-4053, Sept. 2023
+* J. Zhao, F. Li, H. Sun, **Qiwei Zhang** and H. Shuai, "Self-Attention Generative Adversarial Network Enhanced Learning Method for Resilient Defense of Networked Microgrids Against Sequential Events," in IEEE Transactions on Power Systems, vol. 38, no. 5, pp. 4369-4380, Sept. 2023
 * X. Wang, F. Li, **Qiwei Zhang**, Q. Shi and J. Wang, "Profit-Oriented BESS Siting and Sizing in Deregulated Distribution Systems," IEEE Transactions on Smart Grid, vol. 14, pp. 1528-1540, March 2023 
 * **Qiwei Zhang**, F. Li, L. Bai, H. Wang, J. Zhao and H. Shuai, "Coupling Analysis for Multienergy Systems by Self and Cross Critical Load Level," in IEEE Open Access Journal of Power and Energy, vol. 10, pp. 503-516, 2023
 # 2022
