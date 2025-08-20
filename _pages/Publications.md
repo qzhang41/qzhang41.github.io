@@ -29,7 +29,7 @@ author_profile: true
 # 2019-2021
 * **Qiwei Zhang**, F. Li, Q. Shi, K. Tomsovic, J. Sun and L. Ren, "Profit-Oriented False Data Injection on Energy Market: Reviews, Analysis and Insights", IEEE Transactions on Industrial Informatics, vol. 17, no. 9, pp. 5876-5886, Sept. 2021.
 * X. Wang, F. Li, J. Dong, M. Olama, **Qiwei Zhang**, Q. Shi,, "Tri-level Scheduling Model Considering Residential Demand Flexibility of Aggregated HVACs and EVs under Distribution LMP," IEEE Transactions on Smart Grid, Sept, 2022.
-* **Qiwei Zhang**, F. Li "Cyber-Vulnerability Analysis for Real-time Market Operations", Journal: IEEE Transactions on Smart Grid (impact factor: 10.4), vol. 12, no. 4, pp. 3527-3537, July 2021. 
+* **Qiwei Zhang**, F. Li "Cyber-Vulnerability Analysis for Real-time Market Operations", Journal: IEEE Transactions on Smart Grid, vol. 12, no. 4, pp. 3527-3537, July 2021. 
 * **Qiwei Zhang**, F. Li, “From Systematic Risk to Systemic Risk: Analysis over Day-Ahead Market Operation under High Renewable Penetration by CoVaR and ΔCoVaR,” IEEE Transactions on Sustainable Energy, vol. 12, no. 2, pp. 761-771, Apr. 2021.
 * **Qiwei Zhang**, F. Li, H. Cui, R. Bo and L. Ren, "Market-Level Defense against FDIA and a New LMP-Disguising Attack Strategy in Real-Time Market Operations," IEEE Transactions on Power Systems, vol. 36, no. 2, pp. 1419-1431, Mar. 2021.
 * Y. Shen, Y. Li, **Qiwei Zhang**, Q. Shi, F. Li, "Consumer Psychology Based Optimal Portfolio Design for Demand Response Aggregators," in Journal of Modern Power Systems and Clean Energy, vol. 9, March 2021.
