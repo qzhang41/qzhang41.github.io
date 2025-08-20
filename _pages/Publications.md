@@ -11,7 +11,7 @@ author_profile: true
 * E. Spyrou, **Qiwei Zhang**, R. Hytowitz, B. Hobbs, S. Tyagi, M. Cai, "Flexibility Options: A Proposed Product for Managing Imbalance Risk," IEEE Transactions on Energy Markets, Policy and Regulation, 2025.
 * J. Wang, F. Li, X. Fang, H. Cui, B. She, H. Shuai, **Qiwei Zhang**, K. Tomsovic, “Dynamics-incorporated Modeling Framework for Stability Constrained Scheduling Under High-penetration of Renewable Energyn” IEEE Transactions on Sustainable Energy, 2025
 # 2024
-* J. Zhao, F. Li, **Qiwei Zhang**, “Impacts of renewable energy resources on the weather vulnerability of power systems,” Nature Energy (impact factor: 49.7), Oct. 21, 2024.
+* J. Zhao, F. Li, **Qiwei Zhang**, “Impacts of renewable energy resources on the weather vulnerability of power systems,” Nature Energy (impact factor: 60.1), Oct. 21, 2024.
 * **Qiwei Zhang**, F. Li “Securing Energy Equity through Multilayer Market Clearing” in IEEE Transactions on Energy Markets, Policy and Regulation, vol. 2, no. 3, pp. 301-312, Sept. 2024.
 * B She, F Li, H Cui, J Wang, **Qiwei Zhang**, R Bo, “Virtual inertia scheduling for power systems with high penetration of inverter-based resources” IEEE Transactions on Sustainable Energy, April, 2024
 * **Qiwei Zhang**, F. Li, J. Zhao, B. She., “False Data Injection Attack and Corresponding Countermeasure in Multienergy Systems,” IEEE Transactions on Power Systems, vol. 39, no. 2, pp. 3537-3547, March 2024
