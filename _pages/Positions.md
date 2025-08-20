@@ -4,9 +4,9 @@ title: "Position"
 permalink: /position/
 author_profile: true
 ---
-Open opsitions.
+Open opsitions:
 
-# One PhD student positions (GRA/GTA)
+# One PhD student position (GRA/GTA)
 
 Required Qualifications of PhD: 1) Good English communication ability. 2) highly motivated for research.
 
