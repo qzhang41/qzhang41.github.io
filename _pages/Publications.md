@@ -9,6 +9,7 @@ author_profile: true
 
 # 2025
 * E. Spyrou, **Qiwei Zhang**, R. Hytowitz, B. Hobbs, S. Tyagi, M. Cai, "Flexibility Options: A Proposed Product for Managing Imbalance Risk," IEEE Transactions on Energy Markets, Policy and Regulation, 2025.
+  
 * J. Wang, F. Li, X. Fang, H. Cui, B. She, H. Shuai, **Qiwei Zhang**, K. Tomsovic, “Dynamics-incorporated Modeling Framework for Stability Constrained Scheduling Under High-penetration of Renewable Energyn” IEEE Transactions on Sustainable Energy, 2025
   
 # 2024
