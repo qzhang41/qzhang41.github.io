@@ -9,16 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /Publications/
+    url: /publications/
 
   - title: "Team Members"
-    url: /Team Members/    
+    url: /TeamMembers/    
     
   - title: "News"
     url: /News/    
 
   - title: "Research Projects"
-    url: /Research Projects/    
+    url: /ResearchProjects/    
 
   - title: "Positions"
     url: /Positions/    
