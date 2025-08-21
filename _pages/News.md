@@ -4,6 +4,7 @@ title: "News"
 permalink: /News/
 author_profile: true
 ---
+
 * **Oct., 2025**
   
   Dr. Zhang will serve as a penalist and give a talk for panel "Game Theory application in Power Systems" at INFORMS Annual Meeting 2025 at Atlanta. 
