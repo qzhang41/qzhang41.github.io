@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 ---
 # For full publication list please visit [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=oCySz0kAAAAJ&view_op=list_works&sortby=pubdate)
