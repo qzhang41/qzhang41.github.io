@@ -31,12 +31,12 @@ Dr. Qiwei Zhang is an Assistant Professor at University of Texas at San Antonio.
 
 * **University of Tennessee, Knoxville (UTK)** (Sep. 2022 - March 2023)
 
-    Research Scientist (advisor: Fangxing Li https://web.eecs.utk.edu/~fli6/)
+    Research Scientist (advisor: Fangxing Li)
 
 # Education
 
 * **University of Tennessee, Knoxville (UTK)** (PhD Graduated 2022)
-   Advisor Fangxing Li (https://web.eecs.utk.edu/~fli6/)
+   Advisor Fangxing Li
 
 * **University of Tennessee, Knoxville (UTK)** (MS Graduated 2018)
    Advisor Fangxing Li (https://web.eecs.utk.edu/~fli6/)
