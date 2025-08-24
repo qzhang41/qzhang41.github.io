@@ -27,7 +27,7 @@ Dr. Qiwei Zhang is an Assistant Professor at University of Texas at San Antonio.
 
 * **Johns Hopkins University (JHU)** (April 2023 - May 2024)
 
-    Postdoc Researcher (advisor: Ben Hobbs https://hobbsgroup.johnshopkins.edu/members.html)
+    Postdoc Researcher (advisor: Ben Hobbs)
 
 * **University of Tennessee, Knoxville (UTK)** (Sep. 2022 - March 2023)
 
@@ -39,6 +39,6 @@ Dr. Qiwei Zhang is an Assistant Professor at University of Texas at San Antonio.
    Advisor Fangxing Li
 
 * **University of Tennessee, Knoxville (UTK)** (MS Graduated 2018)
-   Advisor Fangxing Li (https://web.eecs.utk.edu/~fli6/)
+   Advisor Fangxing Li
 
 * **North China Electric Power University (NCEPU)** (BS Graduated 2016)
