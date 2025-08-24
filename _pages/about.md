@@ -21,7 +21,7 @@ Dr. Qiwei Zhang is an Assistant Professor at University of Texas at San Antonio.
 
   Assistant Professor
 
-* **National Renewable Energy Lab (NREL)** (June 2024 - July 2025*)
+* **National Renewable Energy Lab (NREL)** (June 2024 - July 2025)
 
   Researcher-Modeling Engineering
 
