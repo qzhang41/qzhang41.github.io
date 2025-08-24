@@ -9,6 +9,10 @@ author_profile: true
   
   Dr. Zhang will serve as a penalist and give a talk for panel "Game Theory application in Power Systems" at INFORMS Annual Meeting 2025 at Atlanta. 
 
+* **Sep, 2025**
+  
+  Dr. Guangxu Feng joined our lab as Postdoc Researcher!
+  
 * **Aug, 2025**
   
   Dr. Zhang joined the University of Texas at San Antonio as Assistant Professor!
