@@ -16,4 +16,4 @@ author_profile: true
 
 <img src="https://qzhang41.github.io/images/ruocheng.jpeg" width="150" height="180"> 
 
-**Ruocheng Yin** is curenntly a Ph.D. student in Electrical Engineering at the University of Texas at San Antonio. His research focuses on smart grids and power system cybersecurity
+**Ruocheng Yin** is curenntly a Ph.D. student in Electrical Engineering at the University of Texas at San Antonio. He earned his B.S. and M.S. from Iowa State University. His research focuses on smart grids and power system cybersecurity
