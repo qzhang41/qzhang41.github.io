@@ -11,4 +11,7 @@ Guangxu Feng
 
 # PhD student:
 
+![Roucheng](https://qzhang41.github.io/images/ruocheng.jpeg)
+
 Roucheng Yin
+Ruocheng Yin is curenntly a Ph.D. student in Electrical Engineering at the University of Texas at San Antonio. His research focuses on smart grids and power system cybersecurity
