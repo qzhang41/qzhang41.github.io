@@ -4,6 +4,12 @@ title: "News"
 permalink: /News/
 author_profile: true
 ---
+<<<<<<< HEAD
+=======
+* **Dec., 2025**
+  
+  Dr. Zhang received the 2025 Outstanding Reviewer recognition from IEEE Transactions on Sustainable Energy. 
+>>>>>>> 7b4a628 (OR)
 
 * **Oct., 2025**
   
