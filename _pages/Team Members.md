@@ -17,3 +17,10 @@ author_profile: true
 <img src="https://qzhang41.github.io/images/ruocheng.jpeg" width="150" height="180"> 
 
 **Ruocheng Yin** is curenntly a Ph.D. student in Electrical Engineering at the University of Texas at San Antonio. He earned his B.S. and M.S. from Iowa State University. His research focuses on smart grids and power system cybersecurity
+
+
+# Undergraduate student:
+
+<img src="https://qzhang41.github.io/images/adrian.jpeg" width="150" height="180"> 
+
+**Adrian Franco** is an Electrical Engineering student at the University of Texas at San Antonio, originally from Houston. His work spans embedded systems and power, with hands-on experience in microcontroller programming, circuit design, and hardware prototyping. He currently serves as an undergraduate research assistant, supporting ongoing research and general lab operations, where he has developed a particular interest in power systems and power electronics
