@@ -23,25 +23,25 @@ Dr. Qiwei Zhang is an Assistant Professor at University of Texas at San Antonio.
 
 * **National Renewable Energy Lab (NREL)** (June 2024 - July 2025)
 
-  Researcher-Modeling Engineering
+  Research Engineer - Modeling Engineering
 
 * **Johns Hopkins University (JHU)** (April 2023 - May 2024)
 
-    Postdoc Researcher (advisor: Ben Hobbs)
+  Postdoc Researcher (advisor: Prof.Ben Hobbs)
 
 * **University of Tennessee, Knoxville (UTK)** (Sep. 2022 - March 2023)
 
-    Research Scientist (advisor: Fangxing Li)
+  Research Scientist (advisor: Prof.Fangxing Li)
 
 # Education
 
 * **University of Tennessee, Knoxville (UTK)** (Graduated 2022)
   
-   PhD student (advisor: Fangxing Li)
+   PhD student (advisor: Prof.Fangxing Li)
 
 * **University of Tennessee, Knoxville (UTK)** (Graduated 2018)
   
-   MS student (advisor: Fangxing Li)
+   MS student (advisor: Prof.Fangxing Li)
 
 * **North China Electric Power University (NCEPU)** (Graduated 2016)
 
