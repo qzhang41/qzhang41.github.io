@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 =======
+* **July, 2026**
+  
+  Our paper, “A Smoothing Pseudo-Labeling Framework for FDIA Detection under Large Load Integration,” has been accepted for publication in IEEE Transactions on Smart Grid.
+
 * **Dec., 2025**
   
   Dr. Zhang received the 2025 Outstanding Reviewer recognition from IEEE Transactions on Sustainable Energy. 
