@@ -6,7 +6,9 @@ author_profile: true
 ---
 # For full publication list please visit [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=oCySz0kAAAAJ&view_op=list_works&sortby=pubdate)
 
-
+# 2026
+* G. Feng, **Qiwei Zhang**, F. Li, "A Smoothing Pseudo-Labeling Framework for FDIA Detection under Large Load Integration," IEEE Transactions on Smart Grid, 2026.
+  
 # 2025
 * E. Spyrou, **Qiwei Zhang**, R. Hytowitz, B. Hobbs, S. Tyagi, M. Cai, "Flexibility Options: A Proposed Product for Managing Imbalance Risk," IEEE Transactions on Energy Markets, Policy and Regulation, 2025.
   
