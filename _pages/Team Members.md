@@ -21,6 +21,9 @@ author_profile: true
 
 # Undergraduate student:
 
-<img src="https://qzhang41.github.io/images/adrian.jpg" width="150" height="180"> 
+<img src="https://qzhang41.github.io/images/Abraham.jpg" width="150" height="180"> 
 
-**Adrian Franco** is an Electrical Engineering student at the University of Texas at San Antonio. His work spans embedded systems and power, with hands-on experience in microcontroller programming, circuit design, and hardware prototyping. He currently serves as an undergraduate research assistant, supporting ongoing research and general lab operations, where he has developed a particular interest in power systems and power electronics
+**Abraham Iyahen** is a student in Electrical Engineering at the University of Texas at San Antonio, currently conducting research on electricity tariff design. His work draws on optimal power flow (OPF) and linear programming methods applied to power systems problems.
+
+
+# Alumni:
