@@ -9,6 +9,7 @@ author_profile: true
 * **OCT., 2026**
   
   Mr. Ruocheng Yin will present his work, “Impact of Communication-Network Uncertainty on the Economic Consequences of Power System FDIA,” at 58th North American Power Symposium 2026.
+
   Dr. Zhang will chair the Power System Cybersecurity I session at 58th North American Power Symposium 2026.
 
 * **July, 2026**
